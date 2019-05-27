@@ -1,3 +1,6 @@
-# eloquentjavascript
-this repo is for Vanilla js Practive 
-book link : https://eloquentjavascript.net/
+# functions
+ <ol>
+    <li>
+        Defining a function
+    </li>
+ </ol>
